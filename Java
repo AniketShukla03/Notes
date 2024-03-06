@@ -1,0 +1,22 @@
+JAVA
+- filname.java is the extension
+- create a java class inside the java file 
+- classname should match with the java filename 
+- inside {} write your code
+
+- public keyword makes your class to acess all the program 
+- inside your class you should have a main method 
+public static void main(String[] args)
+
+- code in any programming language is case sensitive 
+- JAVAC: compiles the java code into byte code
+- JAVA command: executes the java code in terminal 
+
+
+Variables: 
+- Are used to store data
+int - 4 bytes
+long - 8 bytes
+double - 8 bytes
+string - varies
+char - 2 bytes
