@@ -2,4 +2,35 @@
 - HTML is responsible for the content of the web page 
   CSS is responsible for styling the website like colour, shapes, buttons design, etcc.
   JS javascript is a code which allows your site to do things, it will turn a static website to actually do things or become functional 
-- 
+
+
+
+HTML: 
+what is html -
+HTML defines the content and structure of the website.
+
+HyperText Markup Language
+
+HyperText - hyperlinks
+Markup Language - This part is a quote
+
+how do you do markups?
+- By the help of HTML tags
+
+Heading Tag: 
+
+Resource Link:-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+
+<h1>Hello World</h1>
+<h1> - opening tag
+</h1> - closing tag
+
+
+There is no heading 7 
+last heading is <h6></h6>
+
+Heading 1 will have the biggest size and heading 6 will have the smallest size.
+
+Paragraph element:
+<p>This is a paragraph</p>
