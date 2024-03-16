@@ -11,12 +11,45 @@ public static void main(String[] args)
 - code in any programming language is case sensitive 
 - JAVAC: compiles the java code into byte code
 - JAVA command: executes the java code in terminal 
+- println method - printing the method 
+
+Hello world program:
+public class Application{
+
+public static void main(String args[]) {
+
+System.out.println("Hello world");
+}
+}
 
 
 Variables: 
+In java there are 8 primitive types of variable.
+A variable is a container which holds the value while the Java program is executed. A variable is assigned with a data type.
+There are three types of variables in java: local, instance and static.
+There are two types of data types in Java: primitive and non-primitive.
+
+Types of Variables:
+Instance Variables (Non-Static Fields)
+Class Variables (Static Fields)
+Local Variables
+Parameters
+local variable -A variable declared inside the body of the method is called local variable. A local variable cannot be defined with "static" keyword.
+instance variable - A variable declared inside the class but outside the body of the method, is called an instance variable. It is not declared as static.
+static variable - A variable that is declared as static is called a static variable. It cannot be local. You can create a single copy of the static variable and share it among all the instances of the class.
 - Are used to store data
 int - 4 bytes
 long - 8 bytes
 double - 8 bytes
 string - varies
 char - 2 bytes
+short 
+
+int myNumber;
+myNumber = 88;
+System.out.println(myNumber);
+
+
+
+Strings:
+String is a type of a object
