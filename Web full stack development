@@ -34,3 +34,51 @@ Heading 1 will have the biggest size and heading 6 will have the smallest size.
 
 Paragraph element:
 <p>This is a paragraph</p>
+you could just have a plain text in your website for that you need a paragraph element.
+
+for eg:
+<p>This is a paragraph</p>
+<p>Paragraph context</p>
+
+The second tag will give you a space from other line.
+
+"Lorem Ipsum"
+
+Self closing Tags: 
+void elements - horizontal rule or break elements
+Horizontal rule element: <hr/>
+It is used to divide the content from 2 paragraphs or context.
+Break Element: <br/>
+It shows where the breaks should go in a paragraph or context.
+
+
+
+
+
+
+INTERMIDIATE HTML:
+The list elements- 
+Ordered and unordered Lists:
+Ordered list will give you numbers 
+Unordered lists will give you bullet points
+Ordered Lists:
+<ol>
+  <li>milk</li>
+  <li>eggs</li>
+  <li>basket</li>
+</ol>
+
+Unordered Lists:
+<ul>
+  <li>milk</li>
+  <li>eggs</li>
+  <li>basket</li>
+</ul>
+
+Nesting and identation:
+Nesting- 
+Giving subpoints to a list
+
+
+
+
